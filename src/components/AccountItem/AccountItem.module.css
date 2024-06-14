@@ -4,6 +4,11 @@
     padding: 6px 16px;
     cursor: pointer;
 
+    &:last-child {
+        border-bottom-left-radius: 8px;
+        border-bottom-right-radius: 8px;
+    }
+
     &:hover {
         background: rgba(22, 24, 35, 0.03);
     }

@@ -11,7 +11,7 @@ function AccountItem() {
             <img
                 className={cx('avatar')}
                 src="https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-1/434760767_3451023955188338_7663237349930819742_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=UBZUlw6cR9gQ7kNvgHXic6E&_nc_ht=scontent.fsgn5-10.fna&oh=00_AYA385_LU2cwzOP8B3NVLcjlr8Jg0jQFaNKwHnGiZ7wS_w&oe=6671F686"
-                alt="Hoang"
+                alt="hanbisi"
             />
             <div className={cx('info')}>
                 <h4 className={cx('name')}>

@@ -19,11 +19,12 @@ function Button({
     className,
     leftIcon,
     rightIcon,
+    onClick,
     ...passProps
 }) {
     let Component = 'button';
     const props = {
-        onclick,
+        onClick,
         ...passProps,
     };
 
@@ -53,8 +54,6 @@ function Button({
         disabled,
         small,
         large,
-        leftIcon,
-        rightIcon,
     });
     return (
         <Component className={cx(classes)} {...props}>

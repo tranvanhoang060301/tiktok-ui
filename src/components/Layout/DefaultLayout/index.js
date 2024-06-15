@@ -1,6 +1,6 @@
 import classNames from 'classnames';
-import Sidebar from './Sidebar';
-import Header from '~/components/Layout/components/Header';
+import Sidebar from '~/components/Layout/Sidebar';
+import Header from '~/components/Layout/Header';
 import styles from './DefaultLayout.module.scss';
 
 function DefaultLayout({ children }) {
